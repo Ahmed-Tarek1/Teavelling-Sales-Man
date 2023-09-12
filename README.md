@@ -20,15 +20,13 @@ Efficient Implementation: Optimized code for faster convergence and reduced comp
 Clone the repository to your local machine:
 
 '''bash
-Copy code
-git clone https://github.com/yourusername/tsp-genetic-programming.git
+git clone https://github.com/Ahmed-Tarek1/Teavelling-Sales-Man.git
 cd tsp-genetic-programming
 Install the required libraries:
 
 '''bash
-Copy code
 pip install numpy matplotlib
-Usage
+## Usage
 Prepare your input data:
 
 Create a text file (e.g., cities.txt) containing the coordinates of cities, one city per line in the format: CityName X Y.
