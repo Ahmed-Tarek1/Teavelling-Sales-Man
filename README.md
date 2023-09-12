@@ -14,18 +14,18 @@ Efficient Implementation: Optimized code for faster convergence and reduced comp
 
 ## Getting Started
 ### Prerequisites
-Python 3.x
-Required Python libraries: numpy, matplotlib (for visualization)
-Installation
+- Python 3.x
+- Required Python libraries: numpy, matplotlib (for visualization)
+### Installation
 Clone the repository to your local machine:
 
-bash
+'''bash
 Copy code
 git clone https://github.com/yourusername/tsp-genetic-programming.git
 cd tsp-genetic-programming
 Install the required libraries:
 
-bash
+'''bash
 Copy code
 pip install numpy matplotlib
 Usage
