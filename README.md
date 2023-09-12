@@ -1,18 +1,18 @@
 # Traveling Salesman Problem Solver using Genetic Programming
 
-Overview
+# Overview
 This repository contains a Python implementation of a genetic programming algorithm to solve the Traveling Salesman Problem (TSP). The TSP is a classic optimization problem in which a salesman is tasked with finding the shortest route that visits a set of cities and returns to the starting city.
 
 The genetic programming approach uses a population of candidate solutions, evolves them over generations, and selects the fittest individuals to produce increasingly better solutions. The goal is to find an optimal or near-optimal solution to the TSP.
 
-Features
+# Features
 Genetic Programming Algorithm: Utilizes genetic operators such as selection, crossover, and mutation to evolve a population of solutions.
 Customizable Parameters: Easily adjust population size, generations, and mutation rates to fine-tune the algorithm's performance.
 Visualization: Visualize the evolving solutions and their fitness over generations using built-in plotting functions.
 Input Flexibility: Accepts a variety of input formats for specifying cities and their coordinates.
 Efficient Implementation: Optimized code for faster convergence and reduced computational overhead.
-Getting Started
-Prerequisites
+# Getting Started
+# Prerequisites
 Python 3.x
 Required Python libraries: numpy, matplotlib (for visualization)
 Installation
