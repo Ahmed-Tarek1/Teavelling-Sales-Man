@@ -20,12 +20,12 @@ The genetic programming approach uses a population of candidate solutions, evolv
 Clone the repository to your local machine:
 
 '''bash
-git clone https://github.com/Ahmed-Tarek1/Teavelling-Sales-Man.git
-cd tsp-genetic-programming
+git clone https://github.com/Ahmed-Tarek1/Travelling-Sales-Man.git
+cd Travelling-Sales-Man'''
 Install the required libraries:
 
 '''bash
-pip install numpy matplotlib
+pip install numpy matplotlib'''
 ## Usage
 Prepare your input data:
 
