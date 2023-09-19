@@ -22,8 +22,8 @@ cd Traveling-Salesman
 ```
 
 ## Usage
-### Run the code in your IDE or Code Editor.
-### Visualize the results:
+### 1.Run the code in your IDE or Code Editor.
+### 2.Visualize the results:
 - View the evolving solutions to track the algorithm's progress.
 
 ## Contributing
