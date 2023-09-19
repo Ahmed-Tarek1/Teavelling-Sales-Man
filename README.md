@@ -8,49 +8,32 @@ The genetic programming approach uses a population of candidate solutions, evolv
 ## Features
 - **Genetic Programming Algorithm:** Utilizes genetic operators such as selection, crossover, and mutation to evolve a population of solutions.
 - **Customizable Parameters:** Easily adjust population size, generations, and mutation rates to fine-tune the algorithm's performance.
-- **Visualization:** Visualize the evolving solutions and their fitness over generations using built-in plotting functions.
-- **Input Flexibility:** Accepts a variety of input formats for specifying cities and their coordinates.
-- **Efficient Implementation:** Optimized code for faster convergence and reduced computational overhead.
+- **Visualization:** Visualize the evolving solutions and their fitness over generations.
 
 ## Getting Started
 ### Prerequisites
 - Python 3.x
-- Required Python libraries: numpy, matplotlib (for visualization)
 ### Installation
 Clone the repository to your local machine:
 
 ```
-git clone https://github.com/Ahmed-Tarek1/Travelling-Sales-Man.git
-cd Travelling-Sales-Man
+git clone https://github.com/Ahmed-Tarek1/Traveling-Salesman.git
+cd Traveling-Salesman
 ```
 
-Install the required libraries:
-
-```
-pip install numpy matplotlib
-```
 ## Usage
-Prepare your input data:
+### Run the code in your IDE or Code Editor.
+### Visualize the results:
+- View the evolving solutions to track the algorithm's progress.
 
-Create a text file (e.g., cities.txt) containing the coordinates of cities, one city per line in the format: CityName X Y.
-Alternatively, you can use a predefined dataset or generate random city coordinates.
-Run the TSP solver:
-
-bash
-Copy code
-python tsp_genetic.py -f cities.txt
-Customize solver parameters as needed (population size, generations, etc.) using command-line arguments.
-Visualize the results:
-
-View the evolving solutions and fitness plots to track the algorithm's progress.
-Contributing
+## Contributing
 Contributions are welcome! Feel free to open issues, propose improvements, or submit pull requests. Please ensure your code adheres to PEP 8 style guidelines and includes appropriate documentation.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
-Inspired by the classic Traveling Salesman Problem.
-Thanks to the open-source community for providing useful libraries and resources.
-Contact
-For questions or feedback, please contact Your Name.
+## Acknowledgments
+- Inspired by the classic Traveling Salesman Problem.
+- Thanks to the open-source community for providing useful libraries and resources.
+## Contact
+For questions or feedback, please contact Ahmed-Tarek1.
